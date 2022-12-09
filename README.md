@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @DarkMenthu
-- 👀 I’m interested in predictive analytics, web dev & more;
-- 🌱 I’m currently learning full stack js;
-- 📫 How to reach me - email: idascalu@outlook.com;
+- 👀 I’m interested in Data analytics, Data Engineering, Data Science, web dev & more;
+- LinkedIn: https://www.linkedin.com/in/dascalu-ciprian-iosif-828258251/
