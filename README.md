@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @DarkMenthu
-- 👀 I’m interested in Data analytics, Data Engineering, Data Science, web dev & more;
-- LinkedIn: https://www.linkedin.com/in/dascalu-ciprian-iosif-828258251/
+- 👋 Hi, I’m Ciprian
+- 👀 LinkedIn: [https://www.linkedin.com/in/dascalu-ciprian-iosif](https://www.linkedin.com/in/dascalu-ciprian-iosif/)
